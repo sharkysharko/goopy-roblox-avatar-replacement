@@ -4,7 +4,7 @@
 // @version      0.8
 // @description  balls
 // @author       goose
-// @match        https://www.roblox.com/users/*
+// @match        https://www.google.com/
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @run-at       document-idle
